@@ -14,7 +14,7 @@ Affiliate means an entity that controls, is controlled by or is under common con
 
 Application refers to Learnovia, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Bebo Auto Service.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Learnovia.
 
 Country refers to: Egypt
 
